@@ -15,9 +15,12 @@ Run Microsoft's Phi-3-mini language model locally on your CPU with an interactiv
 ### Option 1: GitHub Codespaces (Easiest)
 
 1. Click the "Code" button above and select "Create codespace on main"
-2. Wait for the environment to set up (2-3 minutes)
-3. Open `chat_demo_phi3.ipynb` in the file explorer
-4. Run all cells and start chatting!
+2. (Optional) For better performance: Click the 3 dots menu → "Change machine type" → Select 4-core
+3. Wait for the environment to set up (2-3 minutes)
+4. Open `chat_demo_phi3.ipynb` in the file explorer
+5. Run all cells and start chatting!
+
+**Note**: The default 2-core machine works fine but responses are ~2x faster with 4-core.
 
 ### Option 2: Local Installation
 

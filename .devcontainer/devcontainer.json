@@ -32,9 +32,11 @@
 
   "hostRequirements": {
     "cpus": 2,
-    "memory": "4gb",
+    "memory": "8gb",
     "storage": "8gb"
   },
+
+  "updateContentCommand": "echo 'Recommended: Use 4-core machine for better performance (Settings > Change machine type)'",
 
   "remoteUser": "vscode"
 }
