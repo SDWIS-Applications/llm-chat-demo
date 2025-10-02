@@ -30,7 +30,7 @@ Run Microsoft's Phi-3-mini language model locally on your CPU with an interactiv
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SDWIS-Applications/llm-chat-demo.git
 cd llm-chat-demo
 ```
 
